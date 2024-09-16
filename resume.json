@@ -1,0 +1,183 @@
+{
+  "meta":{
+     "theme":"professional"
+  },
+  "basics":{
+     "name":"Kareem Khaled",
+     "label":"Senior Software Engineer",
+     "email":"kareem.mohllal@gmail.com",
+     "phone":"(+20) 10-92574326",
+     "location":{
+        "city":"Cairo",
+        "countryCode":"EG"
+     },
+     "profiles":[
+        {
+           "network":"linkedin",
+           "username":"mohllal",
+           "url":"https://www.linkedin.com/in/mohllal/"
+        },
+        {
+           "network":"github",
+           "username":"mohllal",
+           "url":"https://github.com/mohllal"
+        }
+     ]
+  },
+  "work":[
+     {
+        "name":"PowerToFly",
+        "location":"New York, US - Remote",
+        "position":"Senior Software Engineer, Hire",
+        "url":"https://powertofly.com",
+        "startDate":"2023-01",
+        "highlights":[
+           "Contributed to designing and implementing a recruitment pipeline management system (ATS) using Python, FastAPI, and PostgreSQL, helping increase client acquisition by 10% and boosting sales by 5%.",
+           "Led the development of a centralized notification service using Python, AWS SQS, AWS EventBridge, and AWS DynamoDB, enabling faster integration for other services and increasing customer engagement by 10%.",
+           "Led the migration to Google Analytics 4 (GA4) APIs and developed a new analytics data pipeline using Python, AWS Glue, and AWS Step Functions, increasing reliability by 30% over the legacy pipeline and improving data integrity and reporting."
+        ]
+     },
+     {
+        "name":"Swvl",
+        "location":"Dubai, UAE - Remote",
+        "position":"Software Engineer, Identity",
+        "url":"https://www.swvl.com/",
+        "startDate":"2022-06",
+        "endDate":"2022-12",
+        "highlights":[
+           "Implemented a Kubernetes admission controller using TypeScript to inject proxy sidecar containers into service pods, simplifying onboarding of new services into the authorization system and reducing integration time by 20%.",
+           "Contributed to revamping a sales pipeline service with Python, Flask, and PostgreSQL, improving lead management and demoing processes, which resulted in a 5% increase in lead conversion rates."
+        ]
+     },
+     {
+        "name":"Bosta",
+        "location":"Cairo, EG - Hybrid",
+        "position":"Software Engineer, Growth",
+        "url":"https://www.swvl.com/",
+        "startDate":"2019-12",
+        "endDate":"2022-05",
+        "highlights":[
+           "Contributed to migrating the backend from Meteor.js to a RESTful API using Node.js and Express, eliminating Meteor's pub-sub socket communication, which improved system performance by 20%.",
+           "Led migrating the cloud infrastructure to containerized workloads on Kubernetes (GKE), eliminating scalability and availability issues in the legacy infrastructure, which relied on Docker containers managed by Docker Swarm on VMs.",
+           "Designed and implemented a pricing service using JavaScript, Node.js and MongoDB, enabling dynamic calculation of shipping fees based on multiple factors, which improved pricing accuracy by 10% and reduced manual adjustments by 20%."
+        ]
+     },
+     {
+        "name":"Algorithmz - Tooli TV",
+        "location":"Cairo, EG - Onsite",
+        "position":"Software Engineer",
+        "url":"https://tooli.tv/",
+        "startDate":"2019-01",
+        "endDate":"2019-11",
+        "highlights":[
+           "Designed and implemented a video-on-demand service using JavaScript, Node.js, and MongoDB, enabling content providers to publish and manage video content.",
+           "Set up and automated CD pipelines using Jenkins, optimizing deployment processes and reducing release times by 40%."
+        ]
+     },
+     {
+        "name":"Salfny",
+        "location":"Asyut, EG - Onsite",
+        "position":"Co-founder and Software Engineer",
+        "url":"https://www.salfny.com/",
+        "startDate":"2017-01",
+        "endDate":"2017-12",
+        "highlights":[
+           "Led the startup's successful acceptance into the TIEC national accelerator program, securing $10k in funding.",
+           "Led the development and launch of the Salfny marketplace platform."
+        ]
+     }
+  ],
+  "volunteer":[
+     {
+        "organization":"Mentors Without Borders",
+        "position":"Mentor",
+        "url":"https://www.mentorswithoutborders.net/",
+        "startDate":"2019-09",
+        "endDate":"2020-08",
+        "highlights":[
+           "Taught a group of 10 students the basics of CS and programming using the CS101 course curriculum."
+        ]
+     }
+  ],
+  "education":[
+     {
+        "institution":"Asyut University",
+        "url":"https://www.aun.edu.eg/",
+        "area":"Computer Science",
+        "studyType":"Bachelor",
+        "startDate":"2012-09",
+        "endDate":"2017-06"
+     }
+  ],
+  "skills":[
+     {
+        "name":"Programming Languages",
+        "keywords":[
+           "JavaScript",
+           "TypeScript",
+           "Python"
+        ]
+     },
+     {
+        "name":"Frameworks",
+        "keywords":[
+           "Node.js",
+           "Express.js",
+           "Flask",
+           "FastAPI"
+        ]
+     },
+     {
+        "name":"Databases",
+        "keywords":[
+           "MongoDB",
+           "PostgreSQL",
+           "Redis"
+        ]
+     },
+     {
+        "name":"Packaging and Orchestration",
+        "keywords":[
+           "Docker",
+           "Kubernetes"
+        ]
+     },
+     {
+        "name":"Cloud providers",
+        "keywords":[
+           "Google Cloud Platform (GCP)",
+           "Amazon Web Services (AWS)"
+        ]
+     }
+  ],
+  "certificates":[
+     {
+        "name":"Architecting with Google Kubernetes Engine Specialization",
+        "date":"2020-09",
+        "issuer":"Coursera",
+        "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/5NJYZNVYPAJS"
+     },
+     {
+        "name":"Cloud Developer Nanodegree",
+        "date":"2020-04",
+        "issuer":"Udacity",
+        "url":"https://confirm.udacity.com/UFAVC2E3"
+     },
+     {
+        "name":"Full Stack Web Developer Nanodegree",
+        "date":"2017-07",
+        "issuer":"Udacity",
+        "url":"https://confirm.udacity.com/5TLFAPN3"
+     }
+  ],
+  "languages":[
+     {
+        "language":"Arabic",
+        "fluency":"Native speaker"
+     },
+     {
+        "language":"English",
+        "fluency":"Full professional proficiency"
+     }
+  ]
+}
